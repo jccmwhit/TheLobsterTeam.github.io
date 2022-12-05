@@ -1,0 +1,9 @@
+############################# English ############################
+[en]
+languageName = "En"
+title = "Circuit Chef"
+contentDir = "content/english" # content/english
+weight = 0
+########### footer content ##########
+footer_menu_left = "Information"
+footer_content = "Check out our github page for progress or to see the design files"
