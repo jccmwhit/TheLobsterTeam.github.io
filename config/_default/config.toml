@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "http://circuit-chef.github.io"
+baseURL = "https://circuit-chef.github.io"
 title = "CircuitChef"
-theme = "bigspring-light"
+theme = "lobster"
 # post pagination
 paginate = "3"
 # post excerpt
