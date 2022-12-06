@@ -2,12 +2,12 @@
 ####################### Banner #########################
 banner:
   title : "From Idea to Circuit in the same day, Autonomously"
-  image : "images/banner-art.svg"
-  content : "The Lobster is designed to minimize the distance between idea and prototype. No more choosing between long lead times and expensive local PCB houses. The Lobster turns your circuits into physical prototypes with the press of a button, without oversight."
+  image : "Renders/design_overview.png"
+  content : "The Lobster is 2-layer PCB prototyping solution designed to minimize the time between idea and prototype. The goal is to eliminate downtime in the design cycle, and facilitate the same fast, iterative design approach that 3D printers provide. The lobster aims to be a low friction, plug-and-play solution which turns your circuits into physical prototypes with the press of a button, and no oversight."
   button:
     enable : true
-    label : "Project Goals"
-    link : "project goals/"
+    label : "See our Project Goals"
+    link : "goals/"
 
 ##################### Feature ##########################
 feature:
@@ -51,19 +51,21 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "The Team"
       images:
-      - "images/service-1.png"
-      - "images/service-2.png"
-      - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      - "Team/Brandon Hao.jfif"
+      - "Team/Caleb Brett.jfif"
+      - "Team/David White.jfif"
+      - "Team/James White.jpg"
+      - "Team/Josh Dellosa.jfif"
+      content : "We designed the lobster as a 4th year design project by a group of 5 mechatronics engineering students from the university of waterloo. We designed this machine to service a need that we all saw, while addressing common pain points common between existing market solutions"
       button:
         enable : true
-        label : "Check it out"
-        link : "#"
+        label : "Learn More"
+        link : "blog/team/"
         
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "Automatic Via Processing"
       images:
       - "images/service-1.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."

@@ -16,5 +16,5 @@ weight = 3
 
 [[main]]
 name = "Github"
-url = "contact/"
+url = "https://github.com/circuit-chef/"
 weight = 4
