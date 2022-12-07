@@ -87,14 +87,14 @@ service:
     # service item loop
     - title : "The Team"
       images:
-      - "Team/Brandon Hao.jfif"
-      - "Team/Caleb Brett.jfif"
-      - "Team/David White.jfif"
-      - "Team/James White.jpg"
-      - "Team/Josh Dellosa.jfif"
+      - "Team/Brandon-Hao.jfif"
+      - "Team/Caleb-Brett.jfif"
+      - "Team/David-White.jfif"
+      - "Team/James-White.jpg"
+      - "Team/Josh-Dellosa.jfif"
       content : "We are a group of 5 mechatronics engineering students from the university of waterloo, the lobster is our 4th year design project inspired by our collective desire to see better rapid prototyping solutions for PCB design. We designed this machine to service a need that we all saw, while addressing reocurring pain points we have noticed in current market solutions."
       button:
-        enable : false
+        enable : true
         label : "Learn More"
         link : "blog/team/"
         

@@ -7,7 +7,7 @@ draft: false
 ---
 
 
-{{< goal "What are we trying to build" >}}
+{{< goal "What we are trying to build" >}}
 Our goal is to create a user-friendly, plug-and-play 2-layer rapid pcb prototyping for office use. Our ideal machine will be as simple to use as a 3D printer - just load the material, press go, and return for your finished PCB. 
 {{</ goal >}}
 
@@ -20,7 +20,7 @@ Many current market solutions require a great deal of attention from the user, w
 {{</ goal >}}
 
 {{< goal "Avoiding obscure/proprietary consumables" >}}
-No. This was another primary design goal of ours. Many machines we have seen require obscure or proprietary consumables, which are sometimes sold at high markups because of this fact. This is not unique to PCB prototyping, it is seen in 3D printing and many other tools. From the beginning we based our design around the use of common materials, so it will only require copper-clad FR4 and bare copper wire.
+This was another primary design goal of ours. Many machines we have seen require obscure or proprietary consumables, which are sometimes sold at high markups because of this fact. This is not unique to PCB prototyping, it is seen in 3D printing and many other tools. From the beginning we based our design around the use of common materials, so it will only require copper-clad FR4 and bare copper wire.
 {{</ goal >}}
 
 {{< goal "Prototype vs future iterations" >}}
