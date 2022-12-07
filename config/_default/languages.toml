@@ -1,7 +1,7 @@
 ############################# English ############################
 [en]
 languageName = "En"
-title = "Circuit Chef"
+title = "The Lobster"
 contentDir = "content/english" # content/english
 weight = 0
 ########### footer content ##########
