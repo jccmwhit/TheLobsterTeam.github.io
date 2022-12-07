@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://circuit-chef.github.io"
+baseURL = "https://thelobsterteam.github.io"
 title = "CircuitChef"
 theme = "lobster"
 # post pagination
