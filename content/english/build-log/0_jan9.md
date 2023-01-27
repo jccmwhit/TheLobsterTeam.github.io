@@ -1,6 +1,6 @@
 ---
 title: "Build Update - Jan 9"
-date: 2023-01-26T21:37:37-05:00
+date: 2023-01-09T11:59:00-05:00
 # post image
 image: "blog_images/jan9/jan9_header.png"
 # post type (regular/featured)
